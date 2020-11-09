@@ -1,0 +1,11 @@
+{
+  "name": "matrix-js-sdk-howto",
+  "version": "1.0.0",
+  "description": "Matrix JS usage example",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "matrix-js-sdk": "^9.0.1"
+  }
+}
