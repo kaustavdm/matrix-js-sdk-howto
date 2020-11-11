@@ -7,6 +7,13 @@ This repository contains a simple Matrix client written in JavaScript to run in 
 
 The `develop` branch contains a full example, where the bot waits till someone replies back "hello".
 
+## Install
+
+- Use the latest Node.js LTS (v14.15.0 as of this writing).
+    - Make sure you have `npm` or `yarn` on the PATH.
+- Install depencendies: In the root directory, run `$ npm install` 
+- Run the script using: From the same directory, run `$ node index.js`
+
 ---
 
-License: Public domain
+License: Unlicense/Public domain
